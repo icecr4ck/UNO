@@ -1,5 +1,5 @@
 # UNO
-Jeu de UNO développé en Java suivant les caractéristiques suivantes:
+Jeu de UNO développé en Java selon les caractéristiques suivantes:
 - implémentation du design pattern MVC (Modèle-Vue-Contrôleur)
 - implémentation du design pattern Strategy pour gérer la difficulté du niveau de l'ordinateur
 - présence d'une interface graphique sous Swing
