@@ -5,4 +5,4 @@ Jeu de UNO développé en Java suivant les caractéristiques suivantes:
 - présence d'une interface graphique sous Swing
 - possibilité de jouer à plusieurs joueurs humains en local contre autant de joueurs ordinateurs qu'on souhaite
 
-Ce projet fut développé dans le cadre de l'UV LO02, dispensée à l'UTT.
+Ce projet fut développé dans le cadre de l'UV LO02, dispensée à l'Université de Technologie de Troyes.
